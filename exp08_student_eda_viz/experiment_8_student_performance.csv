@@ -1,0 +1,6 @@
+Student_ID,Name,Department,Attendance_Percentage,Assignment_Score,Exam_Score
+S201,Riya,CSE,92,88,91
+S202,Arun,ECE,85,76,82
+S203,Meera,CSE,,81,79
+S204,Dev,,90,,86
+S204,Dev,,90,,86

@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+exp04_student_records/students.csv
+exp04_student_records/students.txt
+exp12_technical_content/generated_technical_content/

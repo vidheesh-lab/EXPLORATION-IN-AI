@@ -1,0 +1,5 @@
+Example_ID,Technique,Role,Task,Input_Text,Example_Input,Example_Output
+T201,Zero-Shot,Sentiment analyst,Classify review sentiment,The delivery was great,Excellent service,Positive
+T202,One-Shot,Feedback analyst,Classify review sentiment,Battery is broken,Service was excellent,Positive
+T203,Few-Shot,Review analyst,Classify review sentiment,The screen is dull,Great product,Positive
+T204,Role-Based,Writing tutor,Rewrite the sentence professionally,send the project file now,,
